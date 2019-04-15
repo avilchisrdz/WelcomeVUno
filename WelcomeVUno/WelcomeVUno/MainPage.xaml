@@ -10,7 +10,7 @@
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
         
-        <Label Text="Angel Rodriguez...Team: Cristian" 
+        <Label Text="clan chame" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
