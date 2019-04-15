@@ -18,6 +18,12 @@
 
         
 
+        
+        <Label Text="Antonio Perez" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+
          <Label Text="Jhoana Dominguez!" 
                 HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
