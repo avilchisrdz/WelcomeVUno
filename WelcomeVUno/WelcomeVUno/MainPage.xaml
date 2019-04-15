@@ -11,11 +11,17 @@
            VerticalOptions="CenterAndExpand" />
         
 
+        <Label Text="clan chame" 
+      HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+
         <Label Text="zincri"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
                
         <Label Text="EduardoBorraz"
+
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
