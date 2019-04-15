@@ -9,6 +9,12 @@
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+
+
+        <Label Text="Luis Reyes!"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
         
 
         <Label Text="clan chame" 
@@ -21,7 +27,6 @@
            VerticalOptions="CenterAndExpand" />
                
         <Label Text="EduardoBorraz"
-
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
