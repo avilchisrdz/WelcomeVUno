@@ -11,6 +11,7 @@
            VerticalOptions="CenterAndExpand" />
         
         <Label Text="Angel Rodriguez...Team: Cristian" 
+               
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
