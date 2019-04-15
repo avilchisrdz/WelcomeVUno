@@ -5,6 +5,7 @@
              x:Class="WelcomeVUno.MainPage">
 
     <StackLayout>
+        
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
@@ -16,6 +17,11 @@
            VerticalOptions="CenterAndExpand" />
 
         
+
+         <Label Text="Jhoana Dominguez!" 
+                HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
 
         <Label Text="Angel Rodriguez...Team: Cristian" 
           HorizontalOptions="Center"
@@ -32,8 +38,10 @@
                
         <Label Text="EduardoBorraz"
 
+
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        
     </StackLayout>
 
 </ContentPage>
