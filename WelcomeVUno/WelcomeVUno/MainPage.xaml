@@ -3,32 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WelcomeVUno"
              x:Class="WelcomeVUno.MainPage">
-
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
-
         <Label Text="Luis Reyes!"
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
-
         <Label Text="Angel Rodriguez...Team: Cristian" 
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
-
         <Label Text="clan chame" 
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
-
         <Label Text="zincri"
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
-               
         <Label Text="EduardoBorraz"
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
     </StackLayout>
-
 </ContentPage>
