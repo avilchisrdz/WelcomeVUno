@@ -153,8 +153,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\WelcomeVUno\WelcomeVUno.csproj">
-      <Project>{29D045E1-065B-445F-9A2F-8F15734C1171}</Project>
+      <Project>{A6DE15ED-A850-4405-80AC-D6BAB31CC9D8}</Project>
       <Name>WelcomeVUno</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w.jpg" />
   </ItemGroup>
 </Project>
